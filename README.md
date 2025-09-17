@@ -7,10 +7,14 @@ Each day I build a small project, practice coding, and document what I’ve lear
 
 ## 📅 Daily Projects
 
-- **Day 1** →   
+- **Day 1** → [Hello World & Basics](Day01-HelloWorld/day1_basics.py)  
+  *Practiced printing, variables, and basic syntax.*  
 
 - **Day 2** → [Age Calculator](Day02-AgeCalculator/day2_age_calculator.py)  
   *Practiced input, type conversion, and simple math.*  
+
+- **Day 3** → [Age Check with Conditions](Day03-AgeCheck/day3_age_check.py)  
+  *Learned how to use `if`, `elif`, and `else` statements.*  
 
 ---
 
@@ -22,7 +26,7 @@ Each day I build a small project, practice coding, and document what I’ve lear
 ---
 
 ## 🚀 Next Steps
-- **Day 3**: Start working with `if` statements and decision-making.  
+- **Day 4**: Explore loops (`for` and `while`).  
 - Keep updating this repo daily!  
 
 ---
@@ -30,5 +34,5 @@ Each day I build a small project, practice coding, and document what I’ve lear
 ## 📊 Progress
 ✅ Day 1 – Done  
 ✅ Day 2 – Done  
-✅ Day 3 – done
-
+✅ Day 3 – Done  
+🔄 Day 4 – In progress
