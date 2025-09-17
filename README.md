@@ -30,4 +30,5 @@ Each day I build a small project, practice coding, and document what I’ve lear
 ## 📊 Progress
 ✅ Day 1 – Done  
 ✅ Day 2 – Done  
-🔄 Day 3 – In progress  
+✅ Day 3 – done
+
