@@ -1,0 +1,13 @@
+age = int(input("What is your age: "))
+
+if age < 18:
+    print("You're a kid bro")
+
+elif age >= 18 and age <= 50:
+    print("Get and work bro! No one’s coming to save you Baba")
+
+elif age > 50:
+    print("You're retiring soon man! Hope umeplan fity for it. Enjoy the remaining period bro!")
+
+else:
+    print("Invalid number")
