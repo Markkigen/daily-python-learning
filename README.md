@@ -16,10 +16,10 @@ Each day I build a small project, practice coding, and document what I’ve lear
 - Day 3 → [Age Check with Conditions](Day03-AgeCheck/day3_age_check.py)  
   Learned how to use `if`, `elif`, and `else` statements.
 
-  
-  - Day 4 → [Password Generator](Day04-PasswordGenerator/day4_password_generator.py)  
+- Day 4 → [Password Generator](Day04-PasswordGenerator/day4_password_generator.py)  
   *Practiced `for` loops, random module, and working with strings.
 
+  
 
 ---
 
